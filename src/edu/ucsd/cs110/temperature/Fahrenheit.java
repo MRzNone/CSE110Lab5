@@ -20,6 +20,6 @@ public class Fahrenheit extends Temperature
     public String toString()
     {
         // TODO: Complete this method
-        return String.valueOf((this.value));
+        return String.valueOf((this.value)) + " F";
     }
 }
